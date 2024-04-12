@@ -1,0 +1,77 @@
+{
+    "carros": [
+      {
+        "marca": "Chevrolet",
+        "modelo": "Blazer",
+        "ano": 1969,
+        "imagem": "../fotos_carros/Chevrolet-Blazer-1969.jpg"
+      },
+      {
+        "marca": "Ford",
+        "modelo": "Maverick",
+        "ano": 1972,
+        "imagem": "../fotos_carros/Ford-Maverick-1972.jpg"
+      },
+      {
+        "marca": "Fiat",
+        "modelo": "Tipo",
+        "ano": 1991,
+        "imagem": "../fotos_carros/Fiat-Tipo.jpg"
+      },
+      {
+        "marca": "Ford",
+        "modelo": "Escort",
+        "ano": 1986,
+        "imagem": "../fotos_carros/Escort.jpg"
+      },
+      {
+        "marca": "Nissan",
+        "modelo": "370z",
+        "ano": 2010,
+        "imagem": "../fotos_carros/nissan_370z.jpg"
+      },
+      {
+        "marca": "Porsche",
+        "modelo": "Carrera GT",
+        "ano": 2004,
+        "imagem": "../fotos_carros/porsche_carrera_gt_2004.jpg"
+      },
+      {
+        "marca": "Dodge",
+        "modelo": "Challenger",
+        "ano": 1970,
+        "imagem": "../fotos_carros/dodge_challenger_1970.jpg"
+      },
+      {
+        "marca": "Chevrolet",
+        "modelo": "Camaro",
+        "ano": 1967,
+        "imagem": "../fotos_carros/chevrolet_camaro_1967.jpg"
+      },
+      {
+        "marca": "Pontiac",
+        "modelo": "Firebird",
+        "ano": 1969,
+        "imagem": "../fotos_carros/pontiac_firebird.jpg"
+      },
+      {
+        "marca": "Plymouth",
+        "modelo": "Road Runner",
+        "ano": 1968,
+        "imagem": "../fotos_carros/plymouth_1968.jpg"
+      },
+      {
+        "marca": "Buick",
+        "modelo": "Skylark",
+        "ano": 1963,
+        "imagem": "../fotos_carros/buick_skylark_1963.jpeg"
+      },
+      {
+        "marca": "Ford",
+        "modelo": "Thunderbird",
+        "ano": 1955,
+        "imagem": "../fotos_carros/ford_thunderbird_1955.jpg"
+      }
+    ]
+  }
+  
